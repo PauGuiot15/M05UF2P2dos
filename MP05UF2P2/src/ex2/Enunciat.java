@@ -7,6 +7,15 @@ public class Enunciat {
        la taula de hash per a obtenir una cadena de text que representa el seu contingut, el mètode "toString" funciona
        correctament i està lliure d'errors.
 
+       */
+
+
+
+
+
+
+    /*
+
     2. Mira al final d'aquest document, trobaràs un llistat de tot el que cal provar per trobar els errors que té el
        el codi font. Dins un mateix joc de proves, pots fer servir combinacions de mètodes (per exemple "put" i "get").
        El llistat del final indica qué es allò que cal provar, però la forma de fer-ho (molts jocs de proces curts, pocs
@@ -186,3 +195,4 @@ public class Enunciat {
 
 */
 }
+
