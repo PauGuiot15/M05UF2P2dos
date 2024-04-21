@@ -228,8 +228,7 @@ public class HashTable {
         log(hashTable.toString());
         log("\nValue for key(20) : " + hashTable.get("20") );
     }
-
-
+    
 
 
     @Test
