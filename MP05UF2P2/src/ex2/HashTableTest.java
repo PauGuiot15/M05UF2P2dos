@@ -17,7 +17,6 @@ public class HashTableTest {
         assertEquals("value1", hashTable.get("key1"));
         assertEquals("value2", hashTable.get("key2"));
     }
-
     @Test
     public void testDrop() {
         HashTable hashTable = new HashTable();
